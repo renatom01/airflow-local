@@ -1,0 +1,167 @@
+[2022-10-12 18:04:04,328] {processor.py:163} INFO - Started process (PID=7880) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:04:04,328] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:04:04,329] {logging_mixin.py:109} INFO - [2022-10-12 18:04:04,329] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:04:04,361] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:04:04,364] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.036 seconds
+[2022-10-12 18:05:59,177] {processor.py:163} INFO - Started process (PID=8075) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:05:59,179] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:05:59,180] {logging_mixin.py:109} INFO - [2022-10-12 18:05:59,180] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:05:59,215] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:05:59,219] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2022-10-12 18:07:28,107] {processor.py:163} INFO - Started process (PID=8242) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:07:28,108] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:07:28,109] {logging_mixin.py:109} INFO - [2022-10-12 18:07:28,109] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:07:28,142] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:07:28,144] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.038 seconds
+[2022-10-12 18:08:43,549] {processor.py:163} INFO - Started process (PID=8284) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:08:43,550] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:08:43,550] {logging_mixin.py:109} INFO - [2022-10-12 18:08:43,550] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:08:43,578] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:08:43,579] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2022-10-12 18:10:11,360] {processor.py:163} INFO - Started process (PID=8342) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:10:11,364] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:10:11,364] {logging_mixin.py:109} INFO - [2022-10-12 18:10:11,364] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:10:11,404] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:10:11,407] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.048 seconds
+[2022-10-12 18:11:54,236] {processor.py:163} INFO - Started process (PID=8393) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:11:54,238] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:11:54,238] {logging_mixin.py:109} INFO - [2022-10-12 18:11:54,238] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:11:54,276] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:11:54,279] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.044 seconds
+[2022-10-12 18:13:26,055] {processor.py:163} INFO - Started process (PID=8423) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:13:26,057] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:13:26,059] {logging_mixin.py:109} INFO - [2022-10-12 18:13:26,058] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:13:26,107] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:13:26,113] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.058 seconds
+[2022-10-12 18:14:48,560] {processor.py:163} INFO - Started process (PID=8452) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:14:48,560] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:14:48,561] {logging_mixin.py:109} INFO - [2022-10-12 18:14:48,561] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:14:48,599] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:14:48,603] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.044 seconds
+[2022-10-12 18:16:15,099] {processor.py:163} INFO - Started process (PID=8481) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:16:15,101] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:16:15,101] {logging_mixin.py:109} INFO - [2022-10-12 18:16:15,101] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:16:15,135] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:16:15,137] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2022-10-12 18:17:34,480] {processor.py:163} INFO - Started process (PID=8511) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:17:34,481] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:17:34,482] {logging_mixin.py:109} INFO - [2022-10-12 18:17:34,482] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:17:34,520] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:17:34,581] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.102 seconds
+[2022-10-12 18:18:44,134] {processor.py:163} INFO - Started process (PID=8538) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:18:44,134] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:18:44,135] {logging_mixin.py:109} INFO - [2022-10-12 18:18:44,134] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:18:44,161] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:18:44,163] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-10-12 18:19:51,647] {processor.py:163} INFO - Started process (PID=8564) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:19:51,647] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:19:51,647] {logging_mixin.py:109} INFO - [2022-10-12 18:19:51,647] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:19:51,674] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:19:51,676] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-10-12 18:21:03,404] {processor.py:163} INFO - Started process (PID=8589) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:21:03,405] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:21:03,405] {logging_mixin.py:109} INFO - [2022-10-12 18:21:03,405] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:21:03,434] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:21:03,435] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2022-10-12 18:22:17,855] {processor.py:163} INFO - Started process (PID=8630) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:22:17,856] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:22:17,858] {logging_mixin.py:109} INFO - [2022-10-12 18:22:17,858] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:22:17,891] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:22:17,892] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.038 seconds
+[2022-10-12 18:23:29,505] {processor.py:163} INFO - Started process (PID=8669) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:23:29,507] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:23:29,508] {logging_mixin.py:109} INFO - [2022-10-12 18:23:29,508] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:23:29,545] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:23:29,548] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.045 seconds
+[2022-10-12 18:24:46,357] {processor.py:163} INFO - Started process (PID=8704) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:24:46,358] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:24:46,358] {logging_mixin.py:109} INFO - [2022-10-12 18:24:46,358] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:24:46,385] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:24:46,387] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-10-12 18:26:00,243] {processor.py:163} INFO - Started process (PID=8736) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:26:00,243] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:26:00,243] {logging_mixin.py:109} INFO - [2022-10-12 18:26:00,243] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:26:00,271] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:26:00,273] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2022-10-12 18:27:20,382] {processor.py:163} INFO - Started process (PID=8772) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:27:20,383] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:27:20,383] {logging_mixin.py:109} INFO - [2022-10-12 18:27:20,383] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:27:20,409] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:27:20,411] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-10-12 18:28:30,328] {processor.py:163} INFO - Started process (PID=8816) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:28:30,328] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:28:30,328] {logging_mixin.py:109} INFO - [2022-10-12 18:28:30,328] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:28:30,355] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:28:30,357] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2022-10-12 18:29:27,965] {processor.py:163} INFO - Started process (PID=8841) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:29:27,966] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:29:27,966] {logging_mixin.py:109} INFO - [2022-10-12 18:29:27,966] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:29:27,992] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:29:27,994] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2022-10-12 18:30:35,544] {processor.py:163} INFO - Started process (PID=8898) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:30:35,544] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:30:35,545] {logging_mixin.py:109} INFO - [2022-10-12 18:30:35,545] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:30:35,585] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:30:35,589] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.052 seconds
+[2022-10-12 18:31:58,353] {processor.py:163} INFO - Started process (PID=8928) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:31:58,354] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:31:58,355] {logging_mixin.py:109} INFO - [2022-10-12 18:31:58,355] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:31:58,391] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:31:58,394] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.042 seconds
+[2022-10-12 18:33:10,080] {processor.py:163} INFO - Started process (PID=8955) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:33:10,082] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:33:10,083] {logging_mixin.py:109} INFO - [2022-10-12 18:33:10,082] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:33:10,124] {processor.py:656} WARNING - No viable dags retrieved from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:33:10,126] {processor.py:171} INFO - Processing /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.047 seconds
+[2022-10-12 18:34:17,060] {processor.py:163} INFO - Started process (PID=8984) to work on /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:34:17,062] {processor.py:642} INFO - Processing file /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2022-10-12 18:34:17,062] {logging_mixin.py:109} INFO - [2022-10-12 18:34:17,062] {dagbag.py:500} INFO - Filling up the DagBag from /Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2022-10-12 18:34:17,095] {processor.py:174} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: no such table: dag
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/dag_processing/processor.py", line 165, in _run_file_processor
+    result: Tuple[int, int] = dag_file_processor.process_file(
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/dag_processing/processor.py", line 651, in process_file
+    self._deactivate_missing_dags(session, dagbag, file_path)
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/dag_processing/processor.py", line 685, in _deactivate_missing_dags
+    session.query(DagModel)
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 4063, in update
+    update_op.exec_()
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 1696, in exec_
+    self._do_pre_synchronize()
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 1805, in _do_pre_synchronize
+    self.matched_rows = session.execute(
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 1295, in execute
+    return self._connection_for_bind(bind, close_with_result=True).execute(
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1124, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1316, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1510, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such table: dag
+[SQL: SELECT dag.dag_id AS dag_dag_id 
+FROM dag 
+WHERE dag.fileloc = ? AND dag.is_active = 1 AND 1 = 1]
+[parameters: ('/Users/renatomelo/Downloads/airflow_tooltorial/airflow-local/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py',)]
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
